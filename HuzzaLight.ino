@@ -21,11 +21,9 @@ const int HOURLED = 29; // LED 30 top middle.
 #define TIME_HEADER  'T'   // Header tag for serial time sync message
 #define TIME_REQUEST  7    // ASCII bell character requests a time sync message 
 
-// Setup WIFI 
-//char ssid[] = "Fsociety";  //  your network SSID (name)
-//char pass[] = "nuke80-money";       // your network password
-char ssid[] = "telenet-6BE62";
-char pass[] = "zAKmR0TMph4c"; 
+
+char ssid[] = "";
+char pass[] = ""; 
 
 // NTP settings
 static const char ntpServerName[] = "us.pool.ntp.org";
