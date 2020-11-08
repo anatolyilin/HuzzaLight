@@ -11,3 +11,4 @@ Based on ESP8266 controller, Feather Huzza.
 Dependencies: 
 Time by PaulStoffregen 
 ESP8266 library by Adafruit
+CapacitiveSensor by Paul Bagder
