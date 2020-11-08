@@ -6,4 +6,8 @@ Proof of concept of a lamp/clock. The clock is achieved either by lighting up LE
 
 ![alt text](https://raw.githubusercontent.com/anatolyilin/HuzzaLight/master/lamp3.jpeg)
 
-Based on ESP8266 controller, in this case Feather Huzza was used. 
+Based on ESP8266 controller, Feather Huzza. 
+
+Dependencies: 
+Time by PaulStoffregen 
+ESP8266 library by Adafruit
